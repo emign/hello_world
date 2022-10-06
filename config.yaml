@@ -1,5 +1,6 @@
 name: "Hello world"
 version: "1.1.0"
+image: "hello_world/image-{arch}-addon-name"
 slug: folder
 description: >-
   "Long description"
